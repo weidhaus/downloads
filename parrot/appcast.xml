@@ -3,6 +3,15 @@
     <channel>
         <title>parrot</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Mon, 21 Sep 2026 17:35:18 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/weidhaus/downloads/releases/download/parrot-v0.1.1/parrot-0.1.1.dmg" length="5024047" type="application/octet-stream" sparkle:edSignature="dy91mgaA7QeMDKe76hfSpX4/PRN5SSvxN8/9huuJOn9w8OLgZTp+QMI1XHhkvTXwwZhov3Nd89AcalELmyi2Dg=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Mon, 21 Sep 2026 14:53:35 +0200</pubDate>
             <sparkle:version>1</sparkle:version>

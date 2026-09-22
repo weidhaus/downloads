@@ -3,6 +3,15 @@
     <channel>
         <title>quill</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Tue, 22 Sep 2026 19:03:19 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/weidhaus/downloads/releases/download/quill-v1.1.0/quill-1.1.0.dmg" length="5422657" type="application/octet-stream" sparkle:edSignature="gnKGzSat4B/BWNvcv0WQSkm0+XbcMK+G0jwvem5QR7L8doJn9Zr14CykQctbTArQ0ZMnq6nae29Gr9yEgbaOAg=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Tue, 22 Sep 2026 18:01:19 +0200</pubDate>
             <sparkle:version>8</sparkle:version>
